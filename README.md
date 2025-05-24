@@ -1,17 +1,17 @@
 # 🗣️ Speech-to-Speech Assistant
 
-It's a minimalistic and efficient streamlit chatbot for Urdu speakers to ask questions and get response in both text and audio formats. 
+It's a minimalistic and efficient streamlit chatbot for multiple languages and accents to ask questions and get responses in both text and audio formats. 
 It's powered by **Google Gemini**.
 
 ---
 
 ## ✨ Features
 
-- **Converts Speech to Text**: Simply speak, and the app captures your input in Urdu.
+- **Converts Speech to Text**: Simply speak, and the app captures your input.
 - **Responds with Speech**: Get a spoken response back in Urdu from the LLM, ensuring seamless communication.
 - **Chat History Tracking**: The assistant keeps track of the conversation so it feels continuous.
 
-🌟 _The best part? This entire app only took 50 lines of code!_
+🌟 _The best part? This entire app only took 100 lines of code!_
 
 ---
 
