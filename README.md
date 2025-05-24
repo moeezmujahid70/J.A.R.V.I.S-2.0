@@ -28,8 +28,8 @@ It's powered by **Google Gemini**.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/aasherkamal216/STT_TTS.git
-cd STT_TTS
+git https://github.com/moeezmujahid70/J.A.R.V.I.S-2.0.git
+cd J.A.R.V.I.S-2.0
 ```
 
 ### Step 2: Set Up a Virtual Environment (Optional but Recommended)
@@ -59,4 +59,24 @@ streamlit run app.py
 
 ---
 
-This assistant app provides a fast, interactive experience with only minimal code!
+
+
+ ### 🚀 How to Use J.A.R.V.I.S:
+    
+    1. **🎤 Click "Start Recording"** and speak your question
+    2. **🔇 Auto-stop mode** will automatically stop after a set time
+    3. **⏹️ Manual mode** requires clicking "Stop Recording" when done
+    4. **🤖 J.A.R.V.I.S will respond** with both text and voice
+    5. **⚙️ Customize settings** in the sidebar (accent, speech speed, auto-stop)
+    6. **🗑️ Clear history** anytime using the sidebar button
+    
+    **💡 Tips:**
+    - **Auto-stop mode**: Speak your question, it will stop automatically
+    - **Manual mode**: Better for longer questions or detailed conversations
+    - Adjust auto-stop timer based on your speaking pace
+    - Try different accents to find your preference
+    
+    **🔧 Troubleshooting:**
+    - If auto-stop cuts you off: Increase the silence threshold time
+    - For long questions: Use manual mode or increase timer
+    - Can always click stop manually even in auto mode
