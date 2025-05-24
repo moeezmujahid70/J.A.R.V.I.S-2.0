@@ -1,0 +1,42 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*               # any dotenv‐style config
+
+# Streamlit / temp files
+.streamlit/
+*.lock
+tmp/
+*.mp3                # temp audio files
+*.wav
+
+# OS‐specific
+.DS_Store
+Thumbs.db
+
+# IDE / editor configs
+.vscode/
+*.suo
+*.user
+*.log
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Secrets and credentials
+secrets.toml
+*.key
+*.pem
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+
+# Google / cloud SDK
+google-*.json
