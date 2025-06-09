@@ -70,7 +70,7 @@ streamlit run app.py
     5. **⚙️ Customize settings** in the sidebar (accent, speech speed, auto-stop)
     6. **🗑️ Clear history** anytime using the sidebar button
     
-    **💡 Tips:**
+    **💡 Tips:** 
     - **Auto-stop mode**: Speak your question, it will stop automatically
     - **Manual mode**: Better for longer questions or detailed conversations
     - Adjust auto-stop timer based on your speaking pace
